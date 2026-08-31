@@ -1,0 +1,192 @@
+compte;libelle;classe;type;sens_normal;rubrique;poste
+1;Comptes de capitaux propres, de provisions et de dettes financieres et assimilees;1;R;C;;
+10;Capital souscrit ou dotation des succursales et compte de l'exploitant;1;R;C;BILAN_PASSIF;A.I. Capital souscrit
+101;Capital souscrit;1;R;C;BILAN_PASSIF;A.I. Capital souscrit
+101100;Capital souscrit - actions ou parts ordinaires;1;I;C;BILAN_PASSIF;A.I. Capital souscrit
+106;Compte de l'exploitant ou des co-exploitants;1;R;C;BILAN_PASSIF;A.I. Capital souscrit
+106100;Compte de l'exploitant;1;I;C;BILAN_PASSIF;A.I. Capital souscrit
+11;Primes d'emission et primes assimilees;1;R;C;BILAN_PASSIF;A.II. Primes d'emission
+111;Primes d'emission;1;R;C;BILAN_PASSIF;A.II. Primes d'emission
+111100;Primes d'emission;1;I;C;BILAN_PASSIF;A.II. Primes d'emission
+13;Reserves;1;R;C;BILAN_PASSIF;A.IV. Reserves
+131;Reserve legale;1;R;C;BILAN_PASSIF;A.IV. Reserves
+131000;Reserve legale;1;I;C;BILAN_PASSIF;A.IV. Reserves
+133;Reserves statutaires;1;R;C;BILAN_PASSIF;A.IV. Reserves
+133000;Reserves statutaires;1;I;C;BILAN_PASSIF;A.IV. Reserves
+138;Autres reserves;1;R;C;BILAN_PASSIF;A.IV. Reserves
+138000;Autres reserves disponibles;1;I;C;BILAN_PASSIF;A.IV. Reserves
+14;Resultats;1;R;C;BILAN_PASSIF;A.V. Resultats reportes
+141;Resultats reportes;1;R;C;BILAN_PASSIF;A.V. Resultats reportes
+141000;Resultats reportes;1;I;C;BILAN_PASSIF;A.V. Resultats reportes
+142;Resultat de l'exercice;1;R;C;BILAN_PASSIF;A.VI. Resultat de l'exercice
+142000;Resultat de l'exercice;1;I;C;BILAN_PASSIF;A.VI. Resultat de l'exercice
+18;Provisions;1;R;C;BILAN_PASSIF;B. Provisions
+183;Autres provisions;1;R;C;BILAN_PASSIF;B. Provisions
+183000;Autres provisions;1;I;C;BILAN_PASSIF;B. Provisions
+19;Emprunts obligataires et dettes envers les etablissements de credit;1;R;C;BILAN_PASSIF;C. Dettes envers des etablissements de credit
+192;Dettes envers les etablissements de credit;1;R;C;BILAN_PASSIF;C. Dettes envers des etablissements de credit
+192100;Emprunts a moyen et long terme;1;I;C;BILAN_PASSIF;C. Dettes envers des etablissements de credit
+192200;Concours bancaires courants;1;I;C;BILAN_PASSIF;C. Dettes envers des etablissements de credit
+2;Comptes de frais d'etablissement et d'actifs immobilises;2;R;D;;
+20;Frais d'etablissement et frais assimiles;2;R;D;BILAN_ACTIF;B. Frais d'etablissement
+201;Frais de constitution;2;R;D;BILAN_ACTIF;B. Frais d'etablissement
+201000;Frais de constitution;2;I;D;BILAN_ACTIF;B. Frais d'etablissement
+21;Immobilisations incorporelles;2;R;D;BILAN_ACTIF;C.I. Immobilisations incorporelles
+211;Concessions, brevets, licences, marques et droits similaires;2;R;D;BILAN_ACTIF;C.I. Immobilisations incorporelles
+211100;Logiciels et licences informatiques;2;I;D;BILAN_ACTIF;C.I. Immobilisations incorporelles
+211900;Corrections de valeur sur concessions, brevets et licences;2;I;C;BILAN_ACTIF;C.I. Immobilisations incorporelles
+22;Immobilisations corporelles;2;R;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+221;Terrains et constructions;2;R;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+221100;Terrains;2;I;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+221200;Constructions;2;I;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+221900;Corrections de valeur sur terrains et constructions;2;I;C;BILAN_ACTIF;C.II. Immobilisations corporelles
+222;Installations techniques et machines;2;R;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+222100;Installations techniques et machines;2;I;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+222900;Corrections de valeur sur installations techniques et machines;2;I;C;BILAN_ACTIF;C.II. Immobilisations corporelles
+223;Autres installations, outillage, mobilier et materiel roulant;2;R;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+223100;Mobilier et materiel de bureau;2;I;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+223200;Materiel informatique;2;I;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+223300;Materiel roulant;2;I;D;BILAN_ACTIF;C.II. Immobilisations corporelles
+223900;Corrections de valeur sur autres installations et outillage;2;I;C;BILAN_ACTIF;C.II. Immobilisations corporelles
+23;Immobilisations financieres;2;R;D;BILAN_ACTIF;C.III. Immobilisations financieres
+231;Parts dans des entreprises liees;2;R;D;BILAN_ACTIF;C.III. Immobilisations financieres
+231000;Parts dans des entreprises liees;2;I;D;BILAN_ACTIF;C.III. Immobilisations financieres
+236;Depots et cautionnements verses;2;R;D;BILAN_ACTIF;C.III. Immobilisations financieres
+236000;Depots et cautionnements verses;2;I;D;BILAN_ACTIF;C.III. Immobilisations financieres
+3;Comptes de stocks et d'en-cours;3;R;D;;
+30;Stocks de matieres premieres et consommables;3;R;D;BILAN_ACTIF;D.I. Stocks
+301;Matieres premieres;3;R;D;BILAN_ACTIF;D.I. Stocks
+301000;Matieres premieres;3;I;D;BILAN_ACTIF;D.I. Stocks
+36;Stocks de marchandises et d'autres biens destines a la revente;3;R;D;BILAN_ACTIF;D.I. Stocks
+361;Stocks de marchandises;3;R;D;BILAN_ACTIF;D.I. Stocks
+361000;Stocks de marchandises;3;I;D;BILAN_ACTIF;D.I. Stocks
+4;Comptes de tiers;4;R;D;;
+40;Creances resultant de ventes et de prestations de services;4;R;D;BILAN_ACTIF;D.II.1. Creances resultant de ventes et de prestations de services
+401;Clients;4;R;D;BILAN_ACTIF;D.II.1. Creances resultant de ventes et de prestations de services
+401100;Clients - ventes de biens et prestations de services;4;I;D;BILAN_ACTIF;D.II.1. Creances resultant de ventes et de prestations de services
+401800;Clients - factures a etablir;4;I;D;BILAN_ACTIF;D.II.1. Creances resultant de ventes et de prestations de services
+401900;Corrections de valeur sur creances clients;4;I;C;BILAN_ACTIF;D.II.1. Creances resultant de ventes et de prestations de services
+42;Autres creances;4;R;D;BILAN_ACTIF;D.II.3. Autres creances
+421;Creances sur l'Etat et les collectivites publiques;4;R;D;BILAN_ACTIF;D.II.3. Autres creances
+421611;Taxe sur la valeur ajoutee en amont - taux normal;4;I;D;BILAN_ACTIF;D.II.3. Autres creances
+421612;Taxe sur la valeur ajoutee en amont - taux intermediaire;4;I;D;BILAN_ACTIF;D.II.3. Autres creances
+421613;Taxe sur la valeur ajoutee en amont - taux reduit;4;I;D;BILAN_ACTIF;D.II.3. Autres creances
+421614;Taxe sur la valeur ajoutee en amont - taux super-reduit;4;I;D;BILAN_ACTIF;D.II.3. Autres creances
+421617;Taxe sur la valeur ajoutee - acomptes verses;4;I;D;BILAN_ACTIF;D.II.3. Autres creances
+422;Creances sur le personnel;4;R;D;BILAN_ACTIF;D.II.3. Autres creances
+422000;Avances et acomptes au personnel;4;I;D;BILAN_ACTIF;D.II.3. Autres creances
+44;Dettes sur achats et prestations de services;4;R;C;BILAN_PASSIF;C.4. Dettes sur achats et prestations de services
+441;Fournisseurs;4;R;C;BILAN_PASSIF;C.4. Dettes sur achats et prestations de services
+441100;Fournisseurs - achats de biens et services;4;I;C;BILAN_PASSIF;C.4. Dettes sur achats et prestations de services
+441800;Fournisseurs - factures non parvenues;4;I;C;BILAN_PASSIF;C.4. Dettes sur achats et prestations de services
+46;Dettes fiscales et dettes au titre de la securite sociale;4;R;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+461;Dettes fiscales;4;R;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+461411;Taxe sur la valeur ajoutee en aval - taux normal;4;I;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+461412;Taxe sur la valeur ajoutee en aval - taux intermediaire;4;I;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+461413;Taxe sur la valeur ajoutee en aval - taux reduit;4;I;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+461414;Taxe sur la valeur ajoutee en aval - taux super-reduit;4;I;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+461500;Taxe sur la valeur ajoutee due - decompte de periode;4;I;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+461700;Impot sur le revenu des collectivites a payer;4;I;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+462;Dettes au titre de la securite sociale;4;R;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+462000;Centre commun de la securite sociale;4;I;C;BILAN_PASSIF;C.8. Dettes fiscales et dettes au titre de la securite sociale
+47;Autres dettes;4;R;C;BILAN_PASSIF;C.9. Autres dettes
+471;Personnel - remunerations dues;4;R;C;BILAN_PASSIF;C.9. Autres dettes
+471000;Personnel - remunerations dues;4;I;C;BILAN_PASSIF;C.9. Autres dettes
+48;Comptes de regularisation;4;R;D;BILAN_ACTIF;E. Comptes de regularisation
+481;Charges a reporter;4;R;D;BILAN_ACTIF;E. Comptes de regularisation
+481000;Charges a reporter;4;I;D;BILAN_ACTIF;E. Comptes de regularisation
+5;Comptes financiers;5;R;D;;
+51;Avoirs en banques, avoirs en comptes de cheques postaux, cheques et encaisse;5;R;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+511;Banques;5;R;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+511100;Banque - compte courant principal;5;I;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+511200;Banque - compte courant secondaire;5;I;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+516;Caisse;5;R;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+516000;Caisse;5;I;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+517;Virements internes;5;R;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+517000;Virements internes;5;I;D;BILAN_ACTIF;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse
+6;Comptes de charges;6;R;D;;
+60;Consommation de marchandises et de matieres premieres et consommables;6;R;D;CPP;5.a) Matieres premieres et consommables
+601;Achats de matieres premieres;6;R;D;CPP;5.a) Matieres premieres et consommables
+601000;Achats de matieres premieres;6;I;D;CPP;5.a) Matieres premieres et consommables
+606;Achats de marchandises;6;R;D;CPP;5.a) Matieres premieres et consommables
+606000;Achats de marchandises;6;I;D;CPP;5.a) Matieres premieres et consommables
+607;Achats non stockes de matieres et fournitures;6;R;D;CPP;5.a) Matieres premieres et consommables
+607100;Fournitures de bureau;6;I;D;CPP;5.a) Matieres premieres et consommables
+607200;Energie - electricite, gaz, eau;6;I;D;CPP;5.a) Matieres premieres et consommables
+607300;Carburants;6;I;D;CPP;5.a) Matieres premieres et consommables
+61;Autres charges externes;6;R;D;CPP;5.b) Autres charges externes
+611;Loyers et charges locatives;6;R;D;CPP;5.b) Autres charges externes
+611000;Loyers immobiliers;6;I;D;CPP;5.b) Autres charges externes
+611500;Charges locatives et de copropriete;6;I;D;CPP;5.b) Autres charges externes
+612;Entretien et reparations;6;R;D;CPP;5.b) Autres charges externes
+612000;Entretien et reparations;6;I;D;CPP;5.b) Autres charges externes
+613;Primes d'assurance;6;R;D;CPP;5.b) Autres charges externes
+613000;Primes d'assurance;6;I;D;CPP;5.b) Autres charges externes
+614;Honoraires et frais d'actes;6;R;D;CPP;5.b) Autres charges externes
+614100;Honoraires comptables et fiscaux;6;I;D;CPP;5.b) Autres charges externes
+614200;Honoraires juridiques;6;I;D;CPP;5.b) Autres charges externes
+614300;Honoraires informatiques et abonnements logiciels;6;I;D;CPP;5.b) Autres charges externes
+615;Publicite et relations publiques;6;R;D;CPP;5.b) Autres charges externes
+615000;Publicite, publications, relations publiques;6;I;D;CPP;5.b) Autres charges externes
+616;Transports et deplacements;6;R;D;CPP;5.b) Autres charges externes
+616100;Frais de transport sur achats;6;I;D;CPP;5.b) Autres charges externes
+616200;Deplacements, missions et receptions;6;I;D;CPP;5.b) Autres charges externes
+617;Frais postaux et de telecommunications;6;R;D;CPP;5.b) Autres charges externes
+617000;Frais postaux et de telecommunications;6;I;D;CPP;5.b) Autres charges externes
+618;Services bancaires et assimiles;6;R;D;CPP;5.b) Autres charges externes
+618000;Services bancaires et assimiles;6;I;D;CPP;5.b) Autres charges externes
+62;Frais de personnel;6;R;D;CPP;6. Frais de personnel
+621;Salaires et traitements;6;R;D;CPP;6.a) Salaires et traitements
+621000;Salaires et traitements;6;I;D;CPP;6.a) Salaires et traitements
+622;Charges sociales;6;R;D;CPP;6.b) Charges sociales
+622000;Charges sociales patronales;6;I;D;CPP;6.b) Charges sociales
+63;Dotations aux corrections de valeur;6;R;D;CPP;7. Corrections de valeur
+631;Dotations aux corrections de valeur sur immobilisations;6;R;D;CPP;7.a) Corrections de valeur sur frais d'etablissement et sur immobilisations
+631000;Dotations aux corrections de valeur sur immobilisations;6;I;D;CPP;7.a) Corrections de valeur sur frais d'etablissement et sur immobilisations
+634;Dotations aux corrections de valeur sur creances;6;R;D;CPP;7.b) Corrections de valeur sur elements de l'actif circulant
+634000;Dotations aux corrections de valeur sur creances;6;I;D;CPP;7.b) Corrections de valeur sur elements de l'actif circulant
+64;Autres charges d'exploitation;6;R;D;CPP;8. Autres charges d'exploitation
+641;Redevances et jetons de presence;6;R;D;CPP;8. Autres charges d'exploitation
+641000;Jetons de presence et tantiemes;6;I;D;CPP;8. Autres charges d'exploitation
+648;Charges diverses d'exploitation;6;R;D;CPP;8. Autres charges d'exploitation
+648000;Charges diverses d'exploitation;6;I;D;CPP;8. Autres charges d'exploitation
+65;Charges financieres;6;R;D;CPP;13. Interets et autres charges financieres
+655;Interets des emprunts et dettes;6;R;D;CPP;13. Interets et autres charges financieres
+655000;Interets des emprunts et dettes;6;I;D;CPP;13. Interets et autres charges financieres
+656;Pertes de change;6;R;D;CPP;13. Interets et autres charges financieres
+656000;Pertes de change;6;I;D;CPP;13. Interets et autres charges financieres
+67;Impots sur le resultat;6;R;D;CPP;14. Impots sur le resultat
+671;Impot sur le revenu des collectivites;6;R;D;CPP;14. Impots sur le resultat
+671000;Impot sur le revenu des collectivites;6;I;D;CPP;14. Impots sur le resultat
+672;Impot commercial communal;6;R;D;CPP;14. Impots sur le resultat
+672000;Impot commercial communal;6;I;D;CPP;14. Impots sur le resultat
+68;Autres impots ne figurant pas sous les postes ci-dessus;6;R;D;CPP;16. Autres impots ne figurant pas sous les postes ci-dessus
+681;Impot sur la fortune;6;R;D;CPP;16. Autres impots ne figurant pas sous les postes ci-dessus
+681000;Impot sur la fortune;6;I;D;CPP;16. Autres impots ne figurant pas sous les postes ci-dessus
+688;Autres impots et taxes;6;R;D;CPP;16. Autres impots ne figurant pas sous les postes ci-dessus
+688000;Autres impots et taxes;6;I;D;CPP;16. Autres impots ne figurant pas sous les postes ci-dessus
+7;Comptes de produits;7;R;C;;
+70;Montant net du chiffre d'affaires;7;R;C;CPP;1. Montant net du chiffre d'affaires
+702;Ventes de marchandises;7;R;C;CPP;1. Montant net du chiffre d'affaires
+702000;Ventes de marchandises;7;I;C;CPP;1. Montant net du chiffre d'affaires
+704;Prestations de services;7;R;C;CPP;1. Montant net du chiffre d'affaires
+704000;Prestations de services;7;I;C;CPP;1. Montant net du chiffre d'affaires
+705;Ventes de produits finis;7;R;C;CPP;1. Montant net du chiffre d'affaires
+705000;Ventes de produits finis;7;I;C;CPP;1. Montant net du chiffre d'affaires
+708;Produits des activites annexes;7;R;C;CPP;1. Montant net du chiffre d'affaires
+708000;Produits des activites annexes;7;I;C;CPP;1. Montant net du chiffre d'affaires
+709;Rabais, remises et ristournes accordes;7;R;D;CPP;1. Montant net du chiffre d'affaires
+709000;Rabais, remises et ristournes accordes;7;I;D;CPP;1. Montant net du chiffre d'affaires
+71;Variation des stocks de produits finis et d'en-cours;7;R;C;CPP;2. Variation des stocks de produits finis et d'en-cours
+711;Variation des stocks de produits finis;7;R;C;CPP;2. Variation des stocks de produits finis et d'en-cours
+711000;Variation des stocks de produits finis;7;I;C;CPP;2. Variation des stocks de produits finis et d'en-cours
+74;Autres produits d'exploitation;7;R;C;CPP;4. Autres produits d'exploitation
+741;Subventions d'exploitation;7;R;C;CPP;4. Autres produits d'exploitation
+741000;Subventions d'exploitation;7;I;C;CPP;4. Autres produits d'exploitation
+748;Produits divers d'exploitation;7;R;C;CPP;4. Autres produits d'exploitation
+748000;Produits divers d'exploitation;7;I;C;CPP;4. Autres produits d'exploitation
+75;Produits financiers;7;R;C;CPP;12. Autres interets et autres produits financiers
+755;Interets et produits assimiles;7;R;C;CPP;12. Autres interets et autres produits financiers
+755000;Interets et produits assimiles;7;I;C;CPP;12. Autres interets et autres produits financiers
+756;Gains de change;7;R;C;CPP;12. Autres interets et autres produits financiers
+756000;Gains de change;7;I;C;CPP;12. Autres interets et autres produits financiers

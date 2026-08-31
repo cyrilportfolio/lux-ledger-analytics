@@ -1,0 +1,15 @@
+code;libelle;taux;sens;compte_tva;compte_tva_autoliquidation;deductible
+S17;Vente - taux normal;0.17;VENTE;461411;;0
+S14;Vente - taux intermediaire;0.14;VENTE;461412;;0
+S8;Vente - taux reduit;0.08;VENTE;461413;;0
+S3;Vente - taux super-reduit;0.03;VENTE;461414;;0
+SIC;Livraison intracommunautaire exoneree;0.00;VENTE;;;0
+SEX;Exportation hors UE exoneree;0.00;VENTE;;;0
+SEXO;Operation exoneree sans droit a deduction;0.00;VENTE;;;0
+A17;Achat - taux normal;0.17;ACHAT;421611;;1
+A14;Achat - taux intermediaire;0.14;ACHAT;421612;;1
+A8;Achat - taux reduit;0.08;ACHAT;421613;;1
+A3;Achat - taux super-reduit;0.03;ACHAT;421614;;1
+A0;Achat sans taxe;0.00;ACHAT;;;1
+AIC;Acquisition intracommunautaire - autoliquidation;0.17;ACHAT;421611;461411;1
+NA;Hors champ de la taxe;0.00;NEUTRE;;;0

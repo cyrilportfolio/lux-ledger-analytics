@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Generated outputs: rebuilt by `make run`
+output/*
+!output/.gitkeep

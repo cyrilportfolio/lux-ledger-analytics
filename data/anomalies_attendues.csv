@@ -1,0 +1,31 @@
+code_controle;piece;detail
+PIECE_DESEQUILIBREE;VE202500054;montant modifie sur une ligne
+PIECE_DESEQUILIBREE;VE202500006;montant modifie sur une ligne
+PIECE_DESEQUILIBREE;VE202500044;montant modifie sur une ligne
+PIECE_DESEQUILIBREE;AC202500239;montant modifie sur une ligne
+PIECE_DESEQUILIBREE;AC202500208;montant modifie sur une ligne
+COMPTE_INCONNU;AC202500009;compte 615999 hors PCN
+COMPTE_INCONNU;AC202500099;compte 615999 hors PCN
+COMPTE_INCONNU;AC202500246;compte 606999 hors PCN
+COMPTE_NON_IMPUTABLE;AC202500228;compte de regroupement 60
+COMPTE_NON_IMPUTABLE;AC202500044;compte de regroupement 61
+COMPTE_NON_IMPUTABLE;AC202500190;compte de regroupement 614
+DOUBLON;VE202500200;piece dupliquee a l'identique
+DOUBLON;VE202500065;piece dupliquee a l'identique
+DATE_HORS_EXERCICE;VE202500207;date posterieure a la cloture
+DATE_HORS_EXERCICE;VE202500298;date posterieure a la cloture
+DATE_HORS_EXERCICE;AC202500244;date anterieure a l'ouverture
+MONTANT_ABERRANT;AC202500008;montants multiplies par mille
+MONTANT_ABERRANT;AC202500249;montants multiplies par mille
+TVA_INCOHERENTE;VE202500001;TVA calculee a 14% pour un code a 17%
+TVA_INCOHERENTE;VE202500002;TVA calculee a 14% pour un code a 17%
+TVA_INCOHERENTE;VE202500005;TVA calculee a 14% pour un code a 17%
+TVA_INCOHERENTE;VE202500007;TVA calculee a 14% pour un code a 17%
+CODE_TVA_INTERDIT;BQ202500248;code TVA sur un compte de tresorerie
+CODE_TVA_INTERDIT;BQ202500074;code TVA sur un compte de tresorerie
+DEBIT_ET_CREDIT;AC202500180;ligne servie des deux cotes
+DEBIT_ET_CREDIT;AC202500086;ligne servie des deux cotes
+LIGNE_SANS_MONTANT;VE202500186;ligne a zero ajoutee
+LIGNE_SANS_MONTANT;VE202500017;ligne a zero ajoutee
+SEQUENCE_INTERROMPUE;AC202500122;piece absente du journal
+SEQUENCE_INTERROMPUE;AC202500217;piece absente du journal

@@ -1,0 +1,36 @@
+rubrique;ordre;poste;sens
+BILAN_ACTIF;10;B. Frais d'etablissement;+
+BILAN_ACTIF;20;C.I. Immobilisations incorporelles;+
+BILAN_ACTIF;30;C.II. Immobilisations corporelles;+
+BILAN_ACTIF;40;C.III. Immobilisations financieres;+
+BILAN_ACTIF;50;D.I. Stocks;+
+BILAN_ACTIF;60;D.II.1. Creances resultant de ventes et de prestations de services;+
+BILAN_ACTIF;70;D.II.3. Autres creances;+
+BILAN_ACTIF;80;D.IV. Avoirs en banques, avoirs en CCP, cheques et encaisse;+
+BILAN_ACTIF;90;E. Comptes de regularisation;+
+BILAN_PASSIF;10;A.I. Capital souscrit;+
+BILAN_PASSIF;20;A.II. Primes d'emission;+
+BILAN_PASSIF;30;A.IV. Reserves;+
+BILAN_PASSIF;40;A.V. Resultats reportes;+
+BILAN_PASSIF;50;A.VI. Resultat de l'exercice;+
+BILAN_PASSIF;60;B. Provisions;+
+BILAN_PASSIF;70;C. Dettes envers des etablissements de credit;+
+BILAN_PASSIF;80;C.4. Dettes sur achats et prestations de services;+
+BILAN_PASSIF;90;C.8. Dettes fiscales et dettes au titre de la securite sociale;+
+BILAN_PASSIF;100;C.9. Autres dettes;+
+BILAN_PASSIF;110;D. Comptes de regularisation;+
+CPP;10;1. Montant net du chiffre d'affaires;+
+CPP;20;2. Variation des stocks de produits finis et d'en-cours;+
+CPP;30;3. Travaux effectues par l'entreprise pour elle-meme et portes a l'actif;+
+CPP;40;4. Autres produits d'exploitation;+
+CPP;50;5.a) Matieres premieres et consommables;-
+CPP;60;5.b) Autres charges externes;-
+CPP;70;6.a) Salaires et traitements;-
+CPP;80;6.b) Charges sociales;-
+CPP;90;7.a) Corrections de valeur sur frais d'etablissement et sur immobilisations;-
+CPP;100;7.b) Corrections de valeur sur elements de l'actif circulant;-
+CPP;110;8. Autres charges d'exploitation;-
+CPP;120;12. Autres interets et autres produits financiers;+
+CPP;130;13. Interets et autres charges financieres;-
+CPP;140;14. Impots sur le resultat;-
+CPP;150;16. Autres impots ne figurant pas sous les postes ci-dessus;-
