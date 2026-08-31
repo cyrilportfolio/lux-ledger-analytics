@@ -1,5 +1,7 @@
 # lux-ledger-analytics
 
+[![tests](https://github.com/cyrilportfolio/lux-ledger-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/cyrilportfolio/lux-ledger-analytics/actions/workflows/ci.yml)
+
 **Contrôle qualité et restitutions automatisées sur un grand livre tenu au Plan Comptable Normalisé luxembourgeois (PCN 2020).**
 *Quality checks and automated reporting on a general ledger kept under the Luxembourg standard chart of accounts (PCN 2020).*
 

@@ -26,3 +26,23 @@ jobs:
         run: python -m pytest
       - name: Run the pipeline end to end
         run: python -m src.main --journal data/journal_clean.csv --faia --silencieux
+
+  docker-image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the image
+        run: docker build -t lux-ledger .
+      - name: Run the pipeline inside the container
+        run: |
+          mkdir -p output && chmod 777 output
+          docker run --rm \
+            -v "${{ github.workspace }}/data:/app/data" \
+            -v "${{ github.workspace }}/output:/app/output" \
+            lux-ledger --journal data/journal_dirty.csv --faia
+      - name: Check that the three outputs were written
+        run: |
+          test -s output/journal_dirty_etats.xlsx
+          test -s output/journal_dirty_anomalies.txt
+          test -s output/journal_dirty_faia.xml
+          grep -q "68 (dont 33 bloquantes)" output/journal_dirty_anomalies.txt
